@@ -1,0 +1,5 @@
+Credentials cache: API:E2B5DD14-2335-4114-853F-0F9ED04162E1
+        Principal: amaria-m@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jun 29 16:24:17 2021  Jun 30 02:24:17 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
