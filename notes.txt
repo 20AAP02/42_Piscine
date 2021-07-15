@@ -1,0 +1,15 @@
+Correcting projects:
+- Verify if you have all files
+- Check the file names
+- Check if they have the header
+- Check if they pass by the “Norminette”
+- Check if there’s more files than needed (a.out)
+- Check if they pass by the compiler with the FLAGS
+- Check for different inputs
+
+gcc -Wall -Wextra -Werror
+python3 -m c_formatter_42 < originFile > file.c
+
+Kinit amaria-m
+Pass
+examshell
