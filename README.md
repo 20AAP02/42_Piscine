@@ -14,9 +14,9 @@
 -----
 <br>
 <p>Some advice for the piscine if you are currently in it:</p>
-<p>&nbspBefore going for correction of a project make shore to, </p>
-<p>&nbsp&nbspVerify if you have all files</p>
-<p>Check the file names</p>
+<p>&nbsp&nbspBefore going for correction of a project make shore to, </p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspVerify if you have all files</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck the file names</p>
 <p>Check if they have the header</p>
 <p>Check if they pass by the “Norminette”</p>
 <p>Check if there’s more files than needed (ex. a.out)</p>
