@@ -1,4 +1,0 @@
-int isalnum(int c)
-{
-    
-}
