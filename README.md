@@ -25,3 +25,7 @@
   <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck if they pass by the compiler with the FLAGS (-Wall -Wextra -Werror)</p>
   <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck for different inputs</p>
 </br>
+
+-----
+
+Feel free to take a look at the code, it might have some errors that were only corrected for some final version that i didn't upload in to github. But overall it's alright
