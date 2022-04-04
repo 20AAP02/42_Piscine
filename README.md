@@ -17,9 +17,9 @@
 <p>&nbsp&nbspBefore going for correction of a project make shore to, </p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspVerify if you have all files</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck the file names</p>
-<p>Check if they have the header</p>
-<p>Check if they pass by the “Norminette”</p>
-<p>Check if there’s more files than needed (ex. a.out)</p>
-<p>Check if they pass by the compiler with the FLAGS (-Wall -Wextra -Werror)</p>
-<p>Check for different inputs</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck if they have the header</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck if they pass by the “Norminette”</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck if there’s more files than needed (ex. a.out)</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck if they pass by the compiler with the FLAGS (-Wall -Wextra -Werror)</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCheck for different inputs</p>
 </br>
